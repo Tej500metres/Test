@@ -42,4 +42,7 @@
 
 ## Test Data
 
-- Test data should be stored in `test_data.csv`.
+- Test data should be stored in `test_data.csv`. It can be read using read_data.py script.
+   ```sh
+   python read_data.py
+   ```
