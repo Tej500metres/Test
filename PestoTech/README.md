@@ -5,12 +5,12 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ecommerce-automation.git
+   git clone https://github.com/Tej500metres/Test.git
    ```
 
 2. Navigate to the project directory:
    ```sh
-   cd ecommerce-automation
+   cd Test/PestoTech
    ```
 
 3. Install dependencies:
@@ -42,5 +42,4 @@
 
 ## Test Data
 
-- Test data is stored in `test_data.csv`.
-```
+- Test data should be stored in `test_data.csv`.
